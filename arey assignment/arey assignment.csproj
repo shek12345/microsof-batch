@@ -6,7 +6,7 @@
     <RootNamespace>arey_assignment</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>arey_assignment.class444</StartupObject>
+    <StartupObject>arey_assignment.bank1</StartupObject>
   </PropertyGroup>
 
 </Project>
