@@ -22,6 +22,7 @@ namespace arey_assignment
         {
             department d = new department();
             d.Id = 1;
+
             d.Dep_name = "nj";
             d.Location = "pune";
             Console.WriteLine(d);
