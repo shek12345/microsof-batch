@@ -18,7 +18,7 @@ namespace arey_assignment
             while(playagain)
                 {
                 scorePlayer = 0;
-                ScoreCPU = 0;
+                ScoreCPU = 0; 
             }
             while(scorePlayer<3&&ScoreCPU<3)
             Console.WriteLine("choose Stone,Paper,Scissors");
